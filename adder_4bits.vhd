@@ -44,7 +44,7 @@ begin
         a => num1(3),
         b => num2(3),
         ci => co2,
-        co => res(4),
+        ov => res(4),
         s => res(3)
     );
     num3 <= res;
